@@ -1,0 +1,3 @@
+doni_image_homepage:
+    path:     /
+    defaults: { _controller: DoniImageBundle:Default:index }

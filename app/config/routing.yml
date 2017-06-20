@@ -1,3 +1,7 @@
+doni_image:
+    resource: "@DoniImageBundle/Resources/config/routing.yml"
+    prefix:   /
+
 app:
     resource: '@AppBundle/Controller/'
     type: annotation
